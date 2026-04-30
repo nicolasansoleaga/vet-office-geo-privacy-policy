@@ -92,6 +92,22 @@ The Service Provider may disclose User Provided and Automatically Collected Info
 *   when they believe in good faith that disclosure is necessary to protect their rights, protect your safety or the safety of others, investigate fraud, or respond to a government request;
 *   with their trusted services providers who work on their behalf, do not have an independent use of the information we disclose to them, and have agreed to adhere to the rules set forth in this privacy statement.
 
+## Third-Party Services
+
+The Application uses the following third-party services to provide functionality and improve the user experience:
+
+### Google Maps
+
+The Application integrates **Google Maps** to provide location-based services, mapping features, and navigation functionality.
+
+* **Data Shared**: Your device location and search queries related to map services may be transmitted to Google
+* **Purpose**: To display maps, provide directions, and enable location-based features
+* **Data Retention**: Google retains location data according to their own privacy policy
+* **User Control**: You can control location permissions through your device settings
+* **Privacy Policy**: For information on how Google processes your data, please review [Google Maps Privacy Policy](https://policies.google.com/privacy)
+
+When you use map-related features within the Vet Office and Geo app, Google may collect additional information as outlined in their privacy policies. The Service Provider is not responsible for Google's data handling practices.
+
 ## Opt-Out Rights
 
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
