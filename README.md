@@ -46,39 +46,38 @@ Location data is used only for the purposes stated in this policy and is never s
 
 ## Advertisements
 
-Users of the free version of the Application will see advertisements. These advertisements are served by third-party advertising partners and may include targeted ads based on your usage patterns and location data.
+Users of the free version of the Application will see advertisements. These advertisements are **non-personalized and context-based**, served based only on the content and context within the Application.
 
 **For Free Users (Clients):**
-* The Service Provider uses aggregated and anonymized data to help advertisers display relevant content
-* Your personal data is not directly shared with advertisers
+* Advertisements are displayed within the Application
+* Ads are based on in-app activity and context only, not on cross-app user tracking
+* The Service Provider does **not use App Tracking Transparency (ATT)** or other invasive tracking methods
+* Your personal data is not shared with advertisers
 * You can upgrade to the Premium tier to remove all advertisements
-* Third-party ad networks may place their own cookies on your device to track ad performance
 
 **For Paid Users (Veterinarians):**
 * No advertisements are displayed
 
-**Your Advertising Preferences:**
-* You can limit ad tracking through your device's advertising ID settings
-* You can reset or disable your advertising ID in your device settings
-* Disabling ad tracking may result in less relevant advertisements
+**Privacy-Focused Approach:**
+* No cross-device or cross-app tracking
+* No personal data shared with third-party ad networks
+* Ads are contextual and not personalized based on external data
 
-For more information about how third-party advertisers use your data, please review their privacy policies.
+For more information about how advertisements are served, please contact us at nicolasansoleaga@gmail.com.
 
 ## Cookies and Tracking Technologies
 
 The Application may use cookies, local storage, or similar tracking technologies to:
 
 * Remember your preferences and settings
-* Analyze usage patterns and trends
+* Analyze usage patterns and trends within the Application
 * Improve user experience and functionality
 * Track app performance and crash reporting
-* Serve and track advertisements (free version users)
 
 You can control these tracking technologies through:
 * Your mobile device's privacy settings
 * In-app preference settings (if available)
 * Clearing app cache and data through your device settings
-* Resetting your advertising ID for ad-related tracking
 
 Please note that disabling certain tracking technologies may limit the functionality and personalization features of the Application.
 
@@ -108,6 +107,30 @@ The Application integrates **Google Maps** to provide location-based services, m
 
 When you use map-related features within the Vet Office and Geo app, Google may collect additional information as outlined in their privacy policies. The Service Provider is not responsible for Google's data handling practices.
 
+### WhatsApp and Communication Services
+
+The Application uses third-party communication tools to enable communication between veterinarians and clients:
+
+* **WhatsApp Integration**: Messages sent through WhatsApp are handled by Meta Platforms, Inc.
+* **SMS Services**: Short Message Service communications are handled by respective telecommunications providers
+* **Email Services**: Email communications are handled by email service providers
+
+When using these communication features within the Vet Office and Geo app, your data is handled by the respective service providers according to their own privacy policies. The Service Provider is not responsible for how these third-party services process your data.
+
+**Important**: Please review the privacy policies of:
+* [WhatsApp Privacy Policy](https://www.whatsapp.com/legal/privacy-policy)
+* Your SMS provider's privacy policy
+* Your email service provider's privacy policy
+
+## Third-Party Data Responsibility (Veterinarians & Clients)
+
+The Application allows Veterinary professionals to manage client and patient data. **The Veterinarian is the Data Controller for their clients' information, and the Service Provider acts as a Data Processor.**
+
+* Veterinarians are responsible for ensuring compliance with all applicable data protection laws when managing client information
+* The Service Provider provides the technical infrastructure but is not liable for how veterinarians use or manage client data
+* Veterinarians must ensure they have proper consent from clients before storing their data
+* The Service Provider maintains appropriate security measures as required by law and contractual obligations
+
 ## Opt-Out Rights
 
 You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
@@ -118,13 +141,19 @@ The Service Provider will retain User Provided data for as long as you use the A
 
 ## Data Deletion
 
-Users have the right to request complete deletion of their personal data. To request data deletion:
+Users have the right to request complete deletion of their personal data. You have two options:
+
+### Option 1: Self-Service Deletion
+You may delete your account and all associated data directly within the Application's settings menu. This process is immediate and permanent.
+
+### Option 2: Email Request
+To request data deletion via email:
 
 1. Send a request to nicolasansoleaga@gmail.com with the subject line "Data Deletion Request"
 2. Include your account email address and any relevant account identifiers
 3. The Service Provider will respond to verify your identity within 10 business days
 4. Upon verification, the Service Provider will:
-   - Delete all user-provided personal data within 30 days
+   - Delete all user-provided personal data within 30 days of verification, except where retention is required by law
    - Retain only anonymized and aggregated data that cannot be linked back to you for analytics and service improvement purposes
    - Provide confirmation of deletion via email upon completion
    - Note any data that must be retained to comply with legal or contractual obligations
