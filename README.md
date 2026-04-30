@@ -4,6 +4,14 @@
 
 This privacy policy applies to the Vet Office and Geo app (hereby referred to as "Application") for mobile devices that was created by Nicolás Ansoleaga (hereby referred to as "Service Provider") as a Commercial service. This service is intended for use "AS IS".
 
+## Service Type
+
+The Vet Office and Geo app operates on a **freemium model** with different subscription tiers:
+
+* **Paid Tier (Veterinarians)**: Full access to all premium features including advanced client management, analytics, and booking tools. A subscription fee applies for veterinary professionals.
+* **Free Tier (Clients)**: Clients can use the application free of charge with basic features. The free version is supported by advertising.
+* **Premium Tier (Clients)**: Clients may optionally upgrade to a premium subscription to remove advertisements and unlock additional features.
+
 ## Information Collection and Use
 
 The Application collects information when you download and use it. This information may include information such as
@@ -36,6 +44,26 @@ You can:
 
 Location data is used only for the purposes stated in this policy and is never sold to third parties. When the Application is not actively in use, location data collection ceases unless you have explicitly enabled background location services in your device settings.
 
+## Advertisements
+
+Users of the free version of the Application will see advertisements. These advertisements are served by third-party advertising partners and may include targeted ads based on your usage patterns and location data.
+
+**For Free Users (Clients):**
+* The Service Provider uses aggregated and anonymized data to help advertisers display relevant content
+* Your personal data is not directly shared with advertisers
+* You can upgrade to the Premium tier to remove all advertisements
+* Third-party ad networks may place their own cookies on your device to track ad performance
+
+**For Paid Users (Veterinarians):**
+* No advertisements are displayed
+
+**Your Advertising Preferences:**
+* You can limit ad tracking through your device's advertising ID settings
+* You can reset or disable your advertising ID in your device settings
+* Disabling ad tracking may result in less relevant advertisements
+
+For more information about how third-party advertisers use your data, please review their privacy policies.
+
 ## Cookies and Tracking Technologies
 
 The Application may use cookies, local storage, or similar tracking technologies to:
@@ -44,11 +72,13 @@ The Application may use cookies, local storage, or similar tracking technologies
 * Analyze usage patterns and trends
 * Improve user experience and functionality
 * Track app performance and crash reporting
+* Serve and track advertisements (free version users)
 
 You can control these tracking technologies through:
 * Your mobile device's privacy settings
 * In-app preference settings (if available)
 * Clearing app cache and data through your device settings
+* Resetting your advertising ID for ad-related tracking
 
 Please note that disabling certain tracking technologies may limit the functionality and personalization features of the Application.
 
@@ -69,6 +99,21 @@ You can stop all collection of information by the Application easily by uninstal
 ## Data Retention Policy
 
 The Service Provider will retain User Provided data for as long as you use the Application and for a reasonable time thereafter. If you'd like them to delete User Provided Data that you have provided via the Application, please contact them at nicolasansoleaga@gmail.com and they will respond in a reasonable time.
+
+## Data Deletion
+
+Users have the right to request complete deletion of their personal data. To request data deletion:
+
+1. Send a request to nicolasansoleaga@gmail.com with the subject line "Data Deletion Request"
+2. Include your account email address and any relevant account identifiers
+3. The Service Provider will respond to verify your identity within 10 business days
+4. Upon verification, the Service Provider will:
+   - Delete all user-provided personal data within 30 days
+   - Retain only anonymized and aggregated data that cannot be linked back to you for analytics and service improvement purposes
+   - Provide confirmation of deletion via email upon completion
+   - Note any data that must be retained to comply with legal or contractual obligations
+
+Please note that some data may need to be retained for legal, financial, or operational reasons, and residual copies may exist in backup systems for a limited time.
 
 ## Children
 
