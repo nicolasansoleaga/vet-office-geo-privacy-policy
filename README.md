@@ -36,6 +36,22 @@ You can:
 
 Location data is used only for the purposes stated in this policy and is never sold to third parties. When the Application is not actively in use, location data collection ceases unless you have explicitly enabled background location services in your device settings.
 
+## Cookies and Tracking Technologies
+
+The Application may use cookies, local storage, or similar tracking technologies to:
+
+* Remember your preferences and settings
+* Analyze usage patterns and trends
+* Improve user experience and functionality
+* Track app performance and crash reporting
+
+You can control these tracking technologies through:
+* Your mobile device's privacy settings
+* In-app preference settings (if available)
+* Clearing app cache and data through your device settings
+
+Please note that disabling certain tracking technologies may limit the functionality and personalization features of the Application.
+
 ## Third Party Access
 
 Only aggregated, anonymized data is periodically transmitted to external services to aid the Service Provider in improving the Application and their service. The Service Provider may share your information with third parties in the ways that are described in this privacy statement.
@@ -70,6 +86,19 @@ The Service Provider is concerned about safeguarding the confidentiality of your
 * Limited access to personal information on a need-to-know basis
 
 However, no security system is impenetrable. While we strive to protect your information, we cannot guarantee absolute security.
+
+## Legal Basis for Processing (GDPR Compliance)
+
+For users in the European Union, European Economic Area, or other jurisdictions with privacy laws such as the General Data Protection Regulation (GDPR):
+
+* We process your personal data based on your explicit consent
+* You have the right to access, correct, or delete your personal data at any time
+* You can withdraw your consent at any time by contacting us at nicolasansoleaga@gmail.com
+* You have the right to lodge a complaint with your local data protection authority if you believe your rights have been violated
+* We do not sell or share your personal data with third parties for marketing purposes
+* You have the right to data portability upon request
+
+For more information about your privacy rights under GDPR, please visit the official GDPR documentation or contact your local data protection authority.
 
 ## Changes
 
